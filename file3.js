@@ -1,1 +1,1 @@
-console.log('Wrong string');
+console.log('Correct string');
